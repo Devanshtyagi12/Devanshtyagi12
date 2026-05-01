@@ -72,10 +72,12 @@
 
 ## 📈 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshtyagi12&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devanshtyagi12&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshtyagi12&theme=tokyonight" height="160" />
 </p>
+
+
 
 ---
 
@@ -101,5 +103,4 @@ To become a skilled **Data Analyst / MIS Executive** and solve real-world busine
 ---
 
 ⭐ *Feel free to explore my repositories and give feedback!*
-
 
