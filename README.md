@@ -6,7 +6,6 @@ I don't just build dashboards — I find the insight behind the data.
 > *"Found that 48% of deliveries were late and pinpointed exactly which cities caused it."*
 
 - 🎓 Graduate from **MIT Meerut**
-- 📍 Based in **Faridabad, Haryana**
 - 📬 **tyagidevansh92@gmail.com**
 - 🔍 Currently looking for **Data Analyst / MIS Analyst** roles
 
